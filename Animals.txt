@@ -2,3 +2,4 @@ Dog
 Cat
 Mouse
 elephant
+Giraffe 

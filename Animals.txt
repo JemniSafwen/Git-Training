@@ -6,3 +6,4 @@ Giraffe
 Lion
 Turtle
 Wolf
+Rabbit

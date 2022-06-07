@@ -6,3 +6,4 @@ Indigo
 Purple
 Gris
 Orange
+Pink

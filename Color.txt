@@ -1,10 +1,12 @@
 Yellow
+Orange
+Pink
+Beige
 Blue
 Red
 Green
 Indigo
 Purple
 Gris
-Orange
-Pink
-Beige
+Maroon
+Aqua

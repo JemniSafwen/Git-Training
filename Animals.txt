@@ -5,3 +5,4 @@ elephant
 Giraffe 
 Lion
 Turtle
+Wolf

@@ -4,3 +4,4 @@ Mouse
 elephant
 Giraffe 
 Lion
+Tiger
